@@ -24,6 +24,7 @@ Recent applications of machine learning, such as to robotic control, data mining
 
 
 
+
 ### Course Information
 
 https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/master/materials/info.pdf
