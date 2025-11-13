@@ -71,7 +71,7 @@ https://github.com/grapestone5321/Stanford-CS229_Machine_Learning_2008/blob/mast
 - The Overview of Reinforcement Learning
 
 
-Jul 23, 2008
+## Jul 23, 2008
 
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599&index=2&t=1761s
 
